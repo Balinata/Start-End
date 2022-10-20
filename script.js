@@ -1,0 +1,1 @@
+const line = prompt('Cut text','Lorem ipsum dolor sit amet, consectetur adipisicing elit. Modi aperiam perspiciatis quaerat dolorum eveniet impedit!')
